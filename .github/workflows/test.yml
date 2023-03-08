@@ -1,4 +1,4 @@
-name: Cronitor Monitoring Relay
+name: Cronitor Monitoring Relaysfdfdfd
 
 on:
   workflow_run:
